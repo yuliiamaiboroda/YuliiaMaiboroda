@@ -3,9 +3,9 @@
 I am Yuliia Maiboroda, currently looking for a full time job as a Frontend/Full-stack developer. I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuliiamaiboroda/)
-[![Linkedin Badge](https://img.shields.io/badge/-yuliiamaiboroda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuliiamaiboroda/)](https://www.linkedin.com/in/yuliiamaiboroda/)
-[![Gmail Badge](https://img.shields.io/badge/-yyuulliiaa45@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yyuulliiaa45@gmail.com)](mailto:yyuulliiaa45@gmail.com)
-[![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/yulia_Maib)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yyuulliiaa45@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yulia_Maib)
+
 
 ## ⚡ Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -30,17 +30,3 @@ I am Yuliia Maiboroda, currently looking for a full time job as a Frontend/Full-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuliiamaiboroda&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yuliiamaiboroda.yuliiamaiboroda)
-<!--
-**yuliiamaiboroda/yuliiamaiboroda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
