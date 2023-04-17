@@ -2,6 +2,7 @@
 
 I am Yuliia Maiboroda, currently looking for a full time job as a Frontend/Full-stack developer. I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuliiamaiboroda/)
 [![Linkedin Badge](https://img.shields.io/badge/-yuliiamaiboroda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuliiamaiboroda/)](https://www.linkedin.com/in/yuliiamaiboroda/)
 [![Gmail Badge](https://img.shields.io/badge/-yyuulliiaa45@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yyuulliiaa45@gmail.com)](mailto:yyuulliiaa45@gmail.com)
 [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/yulia_Maib)
