@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am Yuliia Maiboroda, currently looking for a full time job as a Frontend/Full-stack developer. I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am Yuliia Maiboroda, currently looking for a full time job as a Frontend/Full-stack developer.
+I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuliiamaiboroda/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yyuulliiaa45@gmail.com)
