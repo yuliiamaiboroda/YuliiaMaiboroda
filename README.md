@@ -4,7 +4,7 @@ I am Yuliia Maiboroda, currently looking for a full time job as a Frontend/Full-
 
 [![Linkedin Badge](https://img.shields.io/badge/-yuliiamaiboroda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuliiamaiboroda/)](https://www.linkedin.com/in/yuliiamaiboroda/)
 [![Gmail Badge](https://img.shields.io/badge/-yyuulliiaa45@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yyuulliiaa45@gmail.com)](mailto:yyuulliiaa45@gmail.com)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&)(https://t.me/yulia_Maib)
+[![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/yulia_Maib)
 
 ## ⚡ Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
