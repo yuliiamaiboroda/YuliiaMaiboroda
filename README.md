@@ -26,6 +26,8 @@ I am a Full-Stack JavaScript developer and love writing clean and maintainable c
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
+
+## 🏆 Statistics
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=yuliiamaiboroda&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuliiamaiboroda&hide=TeX&layout=compact)
